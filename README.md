@@ -6,10 +6,11 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... 
 -->
+
+
 ###
 
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
@@ -46,6 +47,11 @@
   </a>
 </div>
 
+###
+
+- 📫 How to reach me: mjhayxinadnam@gmail.com
+- 💾 TNT: +639506323579
+- 💾 Globe: +639951311600
 ###
 
 <h4 align="left">Programming Languages and Tools:</h4>
