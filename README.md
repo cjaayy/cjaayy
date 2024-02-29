@@ -17,7 +17,7 @@
 ###
 
 <h1 align="center">Hi 👋! I'm Christian Jay Mandani</h1>
-<h3 align="center"> Motivated IT Student with a commitment to applying agile methodologies for efficient problem-solving.</h3>
+<h3 align="center">A passionate and driven student navigating the exciting journey of education. Currently enrolled in BS Information Technology at PUP Bataan, I am fueled by curiosity and a thirst for knowledge</h3>
 
 ###
 
