@@ -17,6 +17,7 @@
 ###
 
 <h1 align="center">Hi 👋! I'm Christian Jay Mandani</h1>
+<p align="center">IT Student</p>
 <h3 align="center">A passionate and driven student navigating the exciting journey of education. Currently enrolled in BS Information Technology at PUP Bataan, I am fueled by curiosity and a thirst for knowledge</h3>
 
 ###
