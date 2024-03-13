@@ -12,10 +12,12 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%%" height=200px" />
+</div>
 
 ###
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <h1 align="center">Hi 👋! I'm Christian Jay Mandani</h1>
 <p align="center">IT Student</p>
 <h3 align="center">A passionate and driven student navigating the exciting journey of education. Currently enrolled in BS Information Technology at PUP Bataan, I am fueled by curiosity and a thirst for knowledge</h3>
@@ -72,18 +74,7 @@
      </a>
   </div>
 
-
-
-
-
-
-
-
-
-
-
-  
-
+    
   ### 
   
   <h4 align="left">Tools:</h4>
@@ -123,7 +114,6 @@
 
 ###
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=cjaayy&theme=default"/>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
