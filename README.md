@@ -20,7 +20,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <h1 align="center">Hi 👋! I'm Christian Jay Mandani</h1>
 <p align="center">IT Student</p>
-<h3 align="center">A passionate and driven student navigating the exciting journey of education. Currently enrolled in BS Information Technology at PUP Bataan, I am fueled by curiosity and a thirst for knowledge</h3>
+<h3 align="center">A passionate and driven student navigating the exciting journey of education. I am fueled by curiosity and a thirst for knowledge</h3>
 
 ###
 
