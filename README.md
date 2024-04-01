@@ -13,10 +13,11 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%%" height=200px" />
+  <img src="https://github.com/cjaayy/cjaayy/assets/142402011/2cc944d2-e656-483d-909a-ff81e38f5e41)"height="200"
 </div>
-
+  
 ###
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <h1 align="center">Hi 👋! I'm Christian Jay Mandani</h1>
 <p align="center">IT Student</p>
