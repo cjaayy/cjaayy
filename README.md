@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://github.com/cjaayy/cjaayy/assets/142402011/2cc944d2-e656-483d-909a-ff81e38f5e41)"height="200"
+  
 </div>
   
 ###
