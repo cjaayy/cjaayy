@@ -12,12 +12,6 @@
 
 ###
 
-<div align="center">
-  
-</div>
-  
-###
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <h1 align="center">Hi 👋! I'm Christian Jay Mandani</h1>
 <p align="center">IT Student</p>
@@ -75,8 +69,7 @@
      </a>
   </div>
 
-    
-  ### 
+   ### 
   
   <h4 align="left">Tools:</h4>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -92,18 +85,9 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=cjaayy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cjaayy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=cjaayy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
-</div>
-
-###
-
-<div align="center">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cjaayy&theme=2077" height="180em" />
-</div>
   
-###
+  <img src="https://github-readme-stats.vercel.app/api?username=cjaayy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
 
-<div align="center">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cjaayy&theme=2077" height="180em" />
 </div>
 
@@ -116,7 +100,6 @@
 ###
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=cjaayy&theme=default"/>
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 ###
 
