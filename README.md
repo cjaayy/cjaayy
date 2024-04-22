@@ -11,6 +11,9 @@
 -->
 
 ###
+<div align="center">
+<img src="https://github.com/cjaayy/cjaayy/assets/142402011/11eeda48-8d8c-407a-a78a-39413b982a35"/>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <h1 align="center">Hi 👋! I'm Christian Jay Mandani</h1>
