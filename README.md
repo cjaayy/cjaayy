@@ -10,15 +10,22 @@
 - ⚡ Fun fact: ... 
 -->
 
+
 ###
+
 <div align="center">
 <img src="https://github.com/cjaayy/cjaayy/assets/142402011/11eeda48-8d8c-407a-a78a-39413b982a35"/>
-
-
+</div>
+  
+<div align="center">
+<img src="https://github.com/cjaayy/cjaayy/assets/142402011/77d8725d-7657-4a21-8499-8bdc4c348b45"width="1000" height="500">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
+
 <h1 align="center">Hi 👋! I'm Christian Jay Mandani</h1>
 <p align="center">IT Student</p>
 <h3 align="center">A passionate and driven student navigating the exciting journey of education. I am fueled by curiosity and a thirst for knowledge</h3>
+</div>
 
 ###
 
@@ -27,24 +34,24 @@
 ###
 
 <div align="left">
-  <a href="https://web.facebook.com/christianjay.mandani.3?_rdc=1&_rdr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/cjaaayy__" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://twitter.com/cjaym__" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/cjaym/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/22815563/christian-jay-mandani" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="47" height="35" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://app.vsaex.visualstudio.com/me?mkt=en-US" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="47" height="35" alt="visualstudio logo"  />
-  </a>
+<a href="https://web.facebook.com/christianjay.mandani.3?_rdc=1&_rdr" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
+</a>
+<a href="https://www.instagram.com/cjaaayy__" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+</a>
+<a href="https://twitter.com/cjaym__" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
+</a>
+<a href="https://www.linkedin.com/in/cjaym/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+</a>
+<a href="https://stackoverflow.com/users/22815563/christian-jay-mandani" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="47" height="35" alt="stackoverflow logo"  />
+</a>
+<a href="https://app.vsaex.visualstudio.com/me?mkt=en-US" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="47" height="35" alt="visualstudio logo"  />
+</a>
 </div>
 
 ###
@@ -66,10 +73,10 @@
      alt="bootstrap" width="40" height="40"/a> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" 
      height="40"/a> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" 
-     width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-     </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" 
+     alt="cplusplus"width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" 
+    width="40" height="40"/></a>
   </div>
 
    ### 
@@ -77,22 +84,28 @@
   <h4 align="left">Tools:</h4>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
-  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/cjaayy/cjaayy/assets/142402011/5d7735e1-2398-4024-8b00-01b213f00c67" style="width:45px; height: auto;">
-  <a href="https://visualstudio.microsoft.com/vs/" target="_blank"> <img src="https://github.com/cjaayy/cjaayy/assets/142402011/607c6c99-8d10-4b49-9683-9f8a330517ac" style="width:45px; height: auto;">
-  <a href="https://www.codeblocks.org/" target="_blank"> <img src="https://github.com/cjaayy/cjaayy/assets/142402011/06a48f51-4ea5-4739-872f-5a861caba27b" alt="Code::Blocks Logo" style="width:45px; height: auto;">
-</a>
- </div>
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/cjaayy/cjaayy/assets/142402011/5d7735e1-2398-4024-8b00-01b213f00c67" style="width:45px; height: 
+  auto;">
+  <a href="https://visualstudio.microsoft.com/vs/" target="_blank"> <img src="https://github.com/cjaayy/cjaayy/assets/142402011/607c6c99-8d10-4b49-9683-9f8a330517ac" style="width:45px; 
+  height: auto;">
+  <a href="https://www.codeblocks.org/" target="_blank"> <img src="https://github.com/cjaayy/cjaayy/assets/142402011/06a48f51-4ea5-4739-872f-5a861caba27b" alt="Code::Blocks Logo" 
+  style="width:45px; height: auto;">
+  </a>
+  </div>
 
   ###
 
-<div align="center">
+ <div align="center">
   <img src="https://streak-stats.demolab.com?user=cjaayy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cjaayy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cjaayy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=dracula&hide_border=false" 
+  height="200" alt="languages graph"  />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=cjaayy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api? 
+ username=cjaayy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" 
+ alt="stats graph"  />
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cjaayy&theme=2077" height="180em" />
-</div>
+ <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cjaayy&theme=2077" height="180em" />
+ </div>
 
 ###
 
