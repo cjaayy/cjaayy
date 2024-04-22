@@ -19,9 +19,9 @@
   
 <div align="center">
 <img src="https://github.com/cjaayy/cjaayy/assets/142402011/cdb844e4-d04a-4037-9f53-5fd22c71e940">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <!---<img src="https://github.com/cjaayy/cjaayy/assets/142402011/77d8725d-7657-4a21-8499-8bdc4c348b45"width="1000" height="500"
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
 
 <h1 align="center">Hi 👋! I'm Christian Jay Mandani</h1>
