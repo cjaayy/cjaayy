@@ -106,13 +106,14 @@
 
 ###
 
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</div>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=cjaayy&theme=default"/>
+
 
 ###
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=cjaayy&theme=default"/>
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</div>
 
 ###
 
