@@ -83,14 +83,14 @@
    ### 
   
   <h4 align="left">Tools:</h4>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
-  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/cjaayy/cjaayy/assets/142402011/5d7735e1-2398-4024-8b00-01b213f00c67" style="width:45px; height: 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a> 
+  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="35" height="35"/> </a> </p>
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/cjaayy/cjaayy/assets/142402011/5d7735e1-2398-4024-8b00-01b213f00c67" style="width:40px; height: 
   auto;">
-  <a href="https://visualstudio.microsoft.com/vs/" target="_blank"> <img src="https://github.com/cjaayy/cjaayy/assets/142402011/607c6c99-8d10-4b49-9683-9f8a330517ac" style="width:45px; 
+  <a href="https://visualstudio.microsoft.com/vs/" target="_blank"> <img src="https://github.com/cjaayy/cjaayy/assets/142402011/607c6c99-8d10-4b49-9683-9f8a330517ac" style="width:40px; 
   height: auto;">
   <a href="https://www.codeblocks.org/" target="_blank"> <img src="https://github.com/cjaayy/cjaayy/assets/142402011/06a48f51-4ea5-4739-872f-5a861caba27b" alt="Code::Blocks Logo" 
-  style="width:45px; height: auto;">
+  style="width:40px; height: auto;">
   </a>
   </div>
 
