@@ -16,10 +16,15 @@
 <div align="center">
 <img src="https://github.com/cjaayy/cjaayy/assets/142402011/11eeda48-8d8c-407a-a78a-39413b982a35"/>
 </div>
-  
+
+###
+
 <div align="center">
 <img src="https://github.com/cjaayy/cjaayy/assets/142402011/cdb844e4-d04a-4037-9f53-5fd22c71e940">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+###
+
 <h1 align="center">Hi 👋! I'm Christian Jay</h1>
 <p align="center">IT Student</p>
 </div>
@@ -40,24 +45,14 @@
 <a href="https://twitter.com/cjaym__" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
 </a>
-<a href="https://discord.com/channels/1200464257351942245" target="_blank">
+<a href="https://discordapp.com/users/1200464257351942245" target="_blank">
 <img src="https://github.com/cjaayy/cjaayy/assets/142402011/f7c8797d-53ef-4885-b626-10554275e44f" width="47" height="35" alt="discord logo"  />
 </a>
 <a href="https://t.me/sejay3" target="_blank">
 <img src="https://github.com/cjaayy/cjaayy/assets/142402011/72f2ef0c-b28e-4d65-99dd-7a8c57580a18" width="47" height="35" alt="telegram logo"  />
 </a>
-
-
-
-
-
-
-
-
-
-  
 <a href="https://www.linkedin.com/in/cjaym/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
 </a>
 <a href="https://stackoverflow.com/users/22815563/christian-jay-mandani" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="47" height="35" alt="stackoverflow logo"  />
@@ -69,7 +64,7 @@
 
 ###
 
-- 📫 How to reach me: [mjhayxinadnam@gmail.com](mailto:mjhayxinadnam@gmail.com)
+ - 📫 How to reach me: mjhayxinadnam@gmail.com
 
 ###
 
@@ -112,8 +107,7 @@
   <img src="https://streak-stats.demolab.com?user=cjaayy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cjaayy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=dracula&hide_border=false" 
   height="200" alt="languages graph"  />
-
- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cjaayy&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cjaayy&theme=2077" height="180em" />
  </div>
 
 ###
