@@ -53,7 +53,7 @@
 
 ###
 
-- 📫 How to reach me: mjhayxinadnam@gmail.com
+- 📫 How to reach me: [mjhayxinadnam@gmail.com](mailto:mjhayxinadnam@gmail.com)
 
 ###
 
