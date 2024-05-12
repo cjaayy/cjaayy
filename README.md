@@ -37,28 +37,28 @@
 
 <div align="left">
 <a href="https://web.facebook.com/christianjay.mandani.3?_rdc=1&_rdr" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="35" alt="facebook logo"  />
 </a>
 <a href="https://www.instagram.com/cjaaayy__" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="35" alt="instagram logo"  />
 </a>
 <a href="https://twitter.com/cjaym__" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="35" alt="twitter logo"  />
 </a>
 <a href="https://discordapp.com/users/1200464257351942245" target="_blank">
-<img src="https://github.com/cjaayy/cjaayy/assets/142402011/f7c8797d-53ef-4885-b626-10554275e44f" width="47" height="35" alt="discord logo"  />
+<img src="https://github.com/cjaayy/cjaayy/assets/142402011/f8833b98-ae35-4ad2-a328-11e3d51399fb" width="40" height="35" alt="discord logo"  />
 </a>
 <a href="https://t.me/sejay3" target="_blank">
-<img src="https://github.com/cjaayy/cjaayy/assets/142402011/72f2ef0c-b28e-4d65-99dd-7a8c57580a18" width="47" height="35" alt="telegram logo"  />
+<img src="https://github.com/cjaayy/cjaayy/assets/142402011/923ba1e8-a2ac-47d6-9dca-580d10239075" width="40" height="35" alt="telegram logo"  />
 </a>
 <a href="https://www.linkedin.com/in/cjaym/" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="35" alt="linkedin logo"  />
 </a>
 <a href="https://stackoverflow.com/users/22815563/christian-jay-mandani" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="47" height="35" alt="stackoverflow logo"  />
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="40" height="35" alt="stackoverflow logo"  />
 </a>
 <a href="https://app.vsaex.visualstudio.com/me?mkt=en-US" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="47" height="35" alt="visualstudio logo"  />
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="40" height="33" alt="visualstudio logo"  />
 </a>
 </div>
 
