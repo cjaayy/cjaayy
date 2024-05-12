@@ -37,28 +37,28 @@
 
 <div align="left">
 <a href="https://web.facebook.com/christianjay.mandani.3?_rdc=1&_rdr" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="35" alt="facebook logo"  />
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="35" height="35" alt="facebook logo"  />
 </a>
 <a href="https://www.instagram.com/cjaaayy__" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="35" alt="instagram logo"  />
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" height="35" alt="instagram logo"  />
 </a>
 <a href="https://twitter.com/cjaym__" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="35" alt="twitter logo"  />
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="35" height="35" alt="twitter logo"  />
 </a>
 <a href="https://discordapp.com/users/1200464257351942245" target="_blank">
-<img src="https://github.com/cjaayy/cjaayy/assets/142402011/f8833b98-ae35-4ad2-a328-11e3d51399fb" width="40" height="35" alt="discord logo"  />
+<img src="https://github.com/cjaayy/cjaayy/assets/142402011/f8833b98-ae35-4ad2-a328-11e3d51399fb" width="35" height="35" alt="discord logo"  />
 </a>
 <a href="https://t.me/sejay3" target="_blank">
-<img src="https://github.com/cjaayy/cjaayy/assets/142402011/923ba1e8-a2ac-47d6-9dca-580d10239075" width="40" height="35" alt="telegram logo"  />
+<img src="https://github.com/cjaayy/cjaayy/assets/142402011/923ba1e8-a2ac-47d6-9dca-580d10239075" width="35" height="35" alt="telegram logo"  />
 </a>
 <a href="https://www.linkedin.com/in/cjaym/" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="35" alt="linkedin logo"  />
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="35" alt="linkedin logo"  />
 </a>
 <a href="https://stackoverflow.com/users/22815563/christian-jay-mandani" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="40" height="35" alt="stackoverflow logo"  />
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="35" height="35" alt="stackoverflow logo"  />
 </a>
 <a href="https://app.vsaex.visualstudio.com/me?mkt=en-US" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="40" height="33" alt="visualstudio logo"  />
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="35" height="33" alt="visualstudio logo"  />
 </a>
 </div>
 
@@ -94,8 +94,8 @@
   auto;">
   <a href="https://visualstudio.microsoft.com/vs/" target="_blank"> <img src="https://github.com/cjaayy/cjaayy/assets/142402011/607c6c99-8d10-4b49-9683-9f8a330517ac" style="width:40px; 
   height: auto;">
-  <a href="https://www.codeblocks.org/" target="_blank"> <img src="https://github.com/cjaayy/cjaayy/assets/142402011/06a48f51-4ea5-4739-872f-5a861caba27b" alt="Code::Blocks Logo" 
-  style="width:40px; height: auto;">
+  <a href="https://www.codeblocks.org/" target="_blank"> <img src="https://github.com/cjaayy/cjaayy/assets/142402011/df8789dd-30c0-42a1-a5d6-0c2fdfc4961f" alt="Code::Blocks Logo" 
+  style="width:35px; height: auto;">
   <a href="https://www.arduino.cc/en/software" target="_blank"> <img src="https://github.com/cjaayy/cjaayy/assets/142402011/bcb4f672-d87e-455e-93a3-91c69d87311c" style="width:40px; 
   height: auto;">
   </a>
