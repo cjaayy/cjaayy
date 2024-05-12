@@ -40,10 +40,10 @@
 <a href="https://twitter.com/cjaym__" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
 </a>
-<a href="https://discord.com/channels/cjay003" target="_blank">
+<a href="https://discord.com/channels/1200464257351942245" target="_blank">
 <img src="https://github.com/cjaayy/cjaayy/assets/142402011/f7c8797d-53ef-4885-b626-10554275e44f" width="47" height="35" alt="discord logo"  />
 </a>
-<a href="https://web.telegram.org/a/" target="_blank">
+<a href="https://t.me/sejay3" target="_blank">
 <img src="https://github.com/cjaayy/cjaayy/assets/142402011/72f2ef0c-b28e-4d65-99dd-7a8c57580a18" width="47" height="35" alt="telegram logo"  />
 </a>
 
