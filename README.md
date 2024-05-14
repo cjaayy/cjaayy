@@ -60,10 +60,11 @@
 <a href="https://stackoverflow.com/users/22815563/christian-jay-mandani" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="35" height="35" alt="stackoverflow logo"  />
 </a>
-<a href="https://app.vsaex.visualstudio.com/me?mkt=en-US" target="_blank">
+ 
+<!--<a href="https://app.vsaex.visualstudio.com/me?mkt=en-US" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="35" height="33" alt="visualstudio logo"  />
 </a>
-</div>
+</div>-->
 
 ###
 
