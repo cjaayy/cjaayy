@@ -22,16 +22,19 @@
 <div align="center">
 <img src="https://github.com/cjaayy/cjaayy/assets/142402011/cdb844e4-d04a-4037-9f53-5fd22c71e940">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
 
 ###
-
+<div>
 <h1 align="center">Hi 👋! I'm Christian Jay</h1>
 <p align="center">IT Student</p>
 </div>
 
 ###
 
+<div>
 <h4 align="left">Connect with me:</h4>
+</div>
 
 ###
 
@@ -85,7 +88,7 @@
     width="40" height="40"/></a>
   </div>
 
-   ### 
+  ### 
   
   <h4 align="left">Tools I use:</h4>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a> 
@@ -101,7 +104,7 @@
   </a>
   </div>
 
-  ###
+###
 
  <div align="center">
   <img src="https://streak-stats.demolab.com?user=cjaayy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
@@ -112,12 +115,19 @@
 
 ###
 
+<div align="center"> 
+<img src="https://komarev.com/ghpvc/?username=cjaayy&label=Profile%20views&color=0e75b6&style=flat" alt="cjaayy" /> </p>
+</div>
+ 
+###
+
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </div>
 
 ###
 
+<br clear="both">
 <img src="https://raw.githubusercontent.com/cjaayy/cjaayy/output/snake.svg" alt="Snake animation" />
 
 ###
