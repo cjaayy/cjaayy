@@ -84,7 +84,9 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" 
      height="40"/a> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" 
-     alt="cplusplus"width="40" height="40"/> </a>
+     alt="cplusplus"width="40"  </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/cjaayy/cjaayy/assets/142402011/670153f0-3962-4ded-b303-9c6802b3d9d1" alt="C# Logo" width="45" height="45" /a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" 
     width="40" height="40"/></a>
   </div>
