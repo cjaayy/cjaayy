@@ -78,7 +78,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
      alt="css3" width="45" height="45"/> </a>
   <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img 
-     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> </a>
+     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="34" height="35"/> </a>
   <a align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/cjaayy/cjaayy/assets/142402011/536874af-0771-40f5-9416-5e4f8c157403" 
      alt="bootstrap" width="40" height="40"/a> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" 
@@ -86,10 +86,15 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" 
      alt="cplusplus"width="40"  </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/cjaayy/cjaayy/assets/142402011/670153f0-3962-4ded-b303-9c6802b3d9d1" alt="C# Logo" width="45" height="45" /a>
+    <img src="https://github.com/user-attachments/assets/41a7de13-d588-4c87-b8c8-59172e688c4b" alt="C# Logo" width="45" height="45" /a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" 
     width="40" height="40"/></a>
   </div>
+ 
+
+
+
+  
 
   ### 
   
