@@ -98,18 +98,13 @@
 
   ### 
   
-  <h4 align="left">Tools I use:</h4>
+  <h4 align="left">Tools:</h4>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a> 
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="35" height="35"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/cjaayy/cjaayy/assets/142402011/5d7735e1-2398-4024-8b00-01b213f00c67" style="width:40px; height: 
   auto;">
   <a href="https://visualstudio.microsoft.com/vs/" target="_blank"> <img src="https://github.com/cjaayy/cjaayy/assets/142402011/607c6c99-8d10-4b49-9683-9f8a330517ac" style="width:40px; 
   height: auto;">
-  <a href="https://www.codeblocks.org/" target="_blank"> <img src="https://github.com/cjaayy/cjaayy/assets/142402011/df8789dd-30c0-42a1-a5d6-0c2fdfc4961f" alt="Code::Blocks Logo" 
-  style="width:35px; height: auto;">
-  <a href="https://www.arduino.cc/en/software" target="_blank"> <img src="https://github.com/cjaayy/cjaayy/assets/142402011/bcb4f672-d87e-455e-93a3-91c69d87311c" style="width:40px; 
-  height: auto;">
-  </a>
   </div>
 
 ###
