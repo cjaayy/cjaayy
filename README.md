@@ -105,6 +105,8 @@
   auto;">
   <a href="https://visualstudio.microsoft.com/vs/" target="_blank"> <img src="https://github.com/cjaayy/cjaayy/assets/142402011/607c6c99-8d10-4b49-9683-9f8a330517ac" style="width:40px; 
   height: auto;">
+  <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/user-attachments/assets/2e464299-697c-4dc3-b0e2-3df90e7f36d7" style="width:40px; 
+  height: auto;">  
   </div>
 
 ###
