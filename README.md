@@ -27,7 +27,7 @@
 ###
 <div>
 <h1 align="center">Hi 👋! I'm Christian Jay</h1>
-<p align="center">IT Student</p>
+<p align="center">IT Student | Freelancer</p>
 </div>
 
 ###
