@@ -69,6 +69,7 @@
 ###
 
  - 📫 How to reach me: mjhayxinadnam@gmail.com
+ - 📂 Check out my online portfolio: www.cjaayy.me 
 
 ###
 
