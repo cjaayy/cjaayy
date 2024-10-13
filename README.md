@@ -100,14 +100,15 @@
   ### 
   
   <h4 align="left">Tools:</h4>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a> 
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="35" height="35"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/cjaayy/cjaayy/assets/142402011/5d7735e1-2398-4024-8b00-01b213f00c67" style="width:40px; height: 
   auto;"> </a>
   <a href="https://visualstudio.microsoft.com/vs/" target="_blank"> <img src="https://github.com/cjaayy/cjaayy/assets/142402011/607c6c99-8d10-4b49-9683-9f8a330517ac" style="width:40px; 
   height: auto;"> </a>
   <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/user-attachments/assets/2e464299-697c-4dc3-b0e2-3df90e7f36d7" style="width:40px; 
   height: auto;">  </a> 
+<a href="https://developer.android.com/studio" target="_blank"> <img src="https://github.com/user-attachments/assets/0db16748-f894-47ab-bca4-025d0e9c76d3" style="width:40px; 
+  height: auto;">  </a>  
   </div>
 
 ###
