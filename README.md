@@ -66,7 +66,7 @@
 
 ###
 
-<h4 align="left">Languages currently learning:</h4>
+<h4 align="left"> Skills & Languages currently learning:</h4>
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img 
      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img 
@@ -84,6 +84,17 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img 
      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   </div>
+
+###
+
+<a href="https://www.mongodb.com/try/download/community" target="_blank" rel="noreferrer"><img 
+   src="https://github.com/user-attachments/assets/3783a687-2bdc-4e65-b33a-9416e3de60e8" alt="typescript" width="40" height="40"/></a>
+<a href="https://www.tutorialspoint.com/expressjs/index.htm" target="_blank" rel="noreferrer"><img 
+   src="https://github.com/user-attachments/assets/4d41016a-f298-4a80-b2eb-32ed68a4150d" alt="typescript" width="40" height="40"/></a>
+<a href="https://www.tutorialspoint.com/reactjs/index.htm" target="_blank" rel="noreferrer"><img 
+   src="https://github.com/user-attachments/assets/041247e0-0f12-4e8a-9ff1-cdfef996c4bd" alt="typescript" width="40" height="40"/></a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img 
+   src="https://github.com/user-attachments/assets/32a451de-d4f7-4c1a-9542-a80ce52a80eb" alt="nodejs" width="40" height="40"/></a>
  
   ### 
   
@@ -98,6 +109,10 @@
 <a href="https://developer.android.com/studio" target="_blank"> <img src="https://github.com/user-attachments/assets/0db16748-f894-47ab-bca4-025d0e9c76d3" style="width:40px; 
   height: auto;"></a>  
   </div>
+  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/9d555754-f68f-4e1c-bae1-0a7a90d96c14" alt="nodejs" width="40" height="40"/>
+</a>
+
 
 ###
 
