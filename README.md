@@ -40,26 +40,19 @@
 
 <div align="left">
 <a href="https://web.facebook.com/christianjay.mandani.3?_rdc=1&_rdr" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="35" height="35" alt="facebook logo"  />
-</a>
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="35" height="35" alt="facebook logo"/></a>
 <a href="https://www.instagram.com/cjaaayy__" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" height="35" alt="instagram logo"  />
-</a>
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" height="35" alt="instagram logo"/></a>
 <a href="https://twitter.com/cjaym__" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="35" height="35" alt="twitter logo"  />
-</a>
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="35" height="35" alt="twitter logo"/></a>
 <a href="https://discordapp.com/users/1200464257351942245" target="_blank">
-<img src="https://github.com/cjaayy/cjaayy/assets/142402011/f8833b98-ae35-4ad2-a328-11e3d51399fb" width="35" height="35" alt="discord logo"  />
-</a>
+<img src="https://github.com/cjaayy/cjaayy/assets/142402011/f8833b98-ae35-4ad2-a328-11e3d51399fb" width="35" height="35" alt="discord logo"/></a>
 <a href="https://t.me/sejay3" target="_blank">
-<img src="https://github.com/cjaayy/cjaayy/assets/142402011/923ba1e8-a2ac-47d6-9dca-580d10239075" width="35" height="35" alt="telegram logo"  />
-</a>
+<img src="https://github.com/cjaayy/cjaayy/assets/142402011/923ba1e8-a2ac-47d6-9dca-580d10239075" width="35" height="35" alt="telegram logo"/></a>
 <a href="https://www.linkedin.com/in/cjaym/" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="35" alt="linkedin logo"  />
-</a>
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="35" alt="linkedin logo"/></a>
 <a href="https://stackoverflow.com/users/22815563/christian-jay-mandani" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="35" height="35" alt="stackoverflow logo"  />
-</a>
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="35" height="35" alt="stackoverflow logo"/></a>
  
 <!--<a href="https://app.vsaex.visualstudio.com/me?mkt=en-US" target="_blank">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="35" height="33" alt="visualstudio logo"  />
@@ -74,41 +67,36 @@
 ###
 
 <h4 align="left">Languages currently learning:</h4>
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
-     alt="html5" width="45" height="45"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
-     alt="css3" width="45" height="45"/> </a>
-  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img 
-     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="34" height="35"/> </a>
-  <a align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/cjaayy/cjaayy/assets/142402011/536874af-0771-40f5-9416-5e4f8c157403" 
-     alt="bootstrap" width="40" height="40"/a> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" 
-     height="40"/a> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" 
-     alt="cplusplus"width="40"  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" 
-    width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img 
+     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img 
+     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/></a>
+  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"><img 
+     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="34" height="35"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img 
+     src="https://github.com/user-attachments/assets/b9697a65-80ee-455f-a92f-1dec14be5764" alt="typescript" width="34" height="35"/></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img 
+     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/a></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img 
+     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"width="40"</a></a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img 
+     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img 
+     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   </div>
  
-
-
-
-  
-
   ### 
   
   <h4 align="left">Tools:</h4>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/cjaayy/cjaayy/assets/142402011/5d7735e1-2398-4024-8b00-01b213f00c67" style="width:40px; height: 
-  auto;"> </a>
+  auto;"></a>
   <a href="https://visualstudio.microsoft.com/vs/" target="_blank"> <img src="https://github.com/cjaayy/cjaayy/assets/142402011/607c6c99-8d10-4b49-9683-9f8a330517ac" style="width:40px; 
-  height: auto;"> </a>
+  height: auto;"></a>
   <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/user-attachments/assets/2e464299-697c-4dc3-b0e2-3df90e7f36d7" style="width:40px; 
-  height: auto;">  </a> 
+  height: auto;"></a> 
 <a href="https://developer.android.com/studio" target="_blank"> <img src="https://github.com/user-attachments/assets/0db16748-f894-47ab-bca4-025d0e9c76d3" style="width:40px; 
-  height: auto;">  </a>  
+  height: auto;"></a>  
   </div>
 
 ###
