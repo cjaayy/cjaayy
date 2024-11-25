@@ -117,27 +117,29 @@
 ###
 
  <div align="center">
-  <img src="https://streak-stats.demolab.com?user=cjaayy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=cjaayy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="200" alt="streak graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cjaayy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=dracula&hide_border=false" 
-  height="200" alt="languages graph"  />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cjaayy&theme=2077" height="180em" />
+  height="200" alt="languages graph"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cjaayy&theme=2077" height="180em"/>
  </div>
 
 ###
 
 <div align="center"> 
-<img src="https://komarev.com/ghpvc/?username=cjaayy&label=Profile%20views&color=0e75b6&style=flat" alt="cjaayy" /> </p>
+<img src="https://komarev.com/ghpvc/?username=cjaayy&label=Profile%20views&color=0e75b6&style=flat" alt="cjaayy" /></p>
 </div>
  
 ###
 
+<!--
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </div>
+-->
 
 ###
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/cjaayy/cjaayy/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/cjaayy/cjaayy/output/snake.svg" alt="Snake animation"/>
 
 ###
