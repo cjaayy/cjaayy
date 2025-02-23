@@ -12,7 +12,7 @@
 
 
 ###
-
+<!--
 <div align="center">
 <img src="https://github.com/cjaayy/cjaayy/assets/142402011/11eeda48-8d8c-407a-a78a-39413b982a35"/>
 </div>
@@ -23,6 +23,7 @@
 <img src="https://github.com/cjaayy/cjaayy/assets/142402011/cdb844e4-d04a-4037-9f53-5fd22c71e940">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
+-->
 
 ###
 <div>
