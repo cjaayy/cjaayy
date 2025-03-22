@@ -84,19 +84,21 @@
      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img 
      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img 
+     src="https://github.com/user-attachments/assets/3b4377c3-8520-47b5-8dcb-6956d1e131f5" alt="python" width="40" height="40"/></a>
   </div>
 
 ###
 
 <a href="https://www.mongodb.com/try/download/community" target="_blank" rel="noreferrer"><img 
-   src="https://github.com/user-attachments/assets/3783a687-2bdc-4e65-b33a-9416e3de60e8" alt="typescript" width="40" height="40"/></a>
+   src="https://github.com/user-attachments/assets/aefc5d94-0ac2-4c35-8619-d461fb1601c1" alt="typescript" width="40" height="40"/></a> 
 <a href="https://www.tutorialspoint.com/expressjs/index.htm" target="_blank" rel="noreferrer"><img 
    src="https://github.com/user-attachments/assets/4d41016a-f298-4a80-b2eb-32ed68a4150d" alt="typescript" width="40" height="40"/></a>
 <a href="https://www.tutorialspoint.com/reactjs/index.htm" target="_blank" rel="noreferrer"><img 
    src="https://github.com/user-attachments/assets/041247e0-0f12-4e8a-9ff1-cdfef996c4bd" alt="typescript" width="40" height="40"/></a>
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img 
-   src="https://github.com/user-attachments/assets/32a451de-d4f7-4c1a-9542-a80ce52a80eb" alt="nodejs" width="40" height="40"/></a>
- 
+   src="https://github.com/user-attachments/assets/135b0492-5b85-4c60-b655-34add9aa7835" alt="nodejs" width="40" height="40"/></a>
+
   ### 
   
   <h4 align="left">Tools:</h4>
