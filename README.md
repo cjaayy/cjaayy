@@ -86,6 +86,8 @@
      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img 
      src="https://github.com/user-attachments/assets/3b4377c3-8520-47b5-8dcb-6956d1e131f5" alt="python" width="40" height="40"/></a>
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img 
+     src="https://github.com/user-attachments/assets/62125f30-f7a6-4acd-8fa7-6b2187f30d3e" alt="python" width="40" height="40"/></a>    
   </div>
 
 ###
