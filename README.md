@@ -75,7 +75,9 @@
   <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"><img 
      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="34" height="35"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img 
-     src="https://github.com/user-attachments/assets/b9697a65-80ee-455f-a92f-1dec14be5764" alt="typescript" width="34" height="35"/></a>
+     src="https://github.com/user-attachments/assets/b9697a65-80ee-455f-a92f-1dec14be5764" alt="typescript" width="34" height="35"/></a> 
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img 
+     src="https://github.com/user-attachments/assets/d40ef046-a9f7-488b-9e8c-b2b305c319ed" alt="bootstrap" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img 
      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/a></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img 
