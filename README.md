@@ -1,275 +1,320 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,25:a82da8,50:903cc2,75:7209b7,100:2d0562&height=300&section=header&text=Christian%20Jay%20Mandani&fontSize=50&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20IT%20Student%20%7C%20Tech%20Enthusiast&descAlignY=50&descSize=18"/>
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Christian+Jay!;" />
-</h1>
-
 <div align="center">
-  <img src="https://github.com/cjaayy/cjaayy/assets/142402011/11eeda48-8d8c-407a-a78a-39413b982a35" alt="Profile Banner"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Christian+Jay+👋;Full-Stack+Developer+💻;Open+Source+Enthusiast+🚀;Always+Learning+New+Tech+📚" alt="Typing SVG" />
 </div>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=50&duration=4000&lines=IT+Student+%7C+Freelancer+%7C+Full-Stack+Developer;Passionate+about+coding+and+innovation!;Always+learning+new+technologies!" />
-</h3>
+<br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=cjaayy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/cjaayy?label=Followers&style=for-the-badge&color=blue" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/cjaayy?label=Stars&style=for-the-badge&color=yellow" alt="stars"/>
+  <img src="https://komarev.com/ghpvc/?username=cjaayy&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/cjaayy?label=Followers&style=for-the-badge&color=blue&labelColor=ce4630" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/cjaayy?label=Stars&style=for-the-badge&color=yellow&labelColor=ce4630" alt="stars"/>
+  <img src="https://badges.pufler.dev/years/cjaayy?style=for-the-badge&color=blue&logo=github">
+  <img src="https://badges.pufler.dev/repos/cjaayy?style=for-the-badge&color=red&logo=github">
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> About Me</b>
+## 🚀 Quick Overview
 
 <div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=cjaayy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=cjaayy&theme=tokyonight&hide_border=true" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🧑‍💻 About Me
 
 ```yaml
-Name: Christian Jay Mandani
-Located_in: Philippines
-Current_Job: IT Student & Freelancer
-Education: Information Technology
-Company: Freelance Full-Stack Developer
+name: Christian Jay Mandani
+location: Philippines 🇵🇭
+timezone: Asia/Manila (GMT+8)
+role: IT Student & Freelance Full-Stack Developer
+education: Bachelor's in Information Technology
+experience: 2+ years in web development
 
-Fields_of_interests:
-  [
-    "Web Development",
-    "Software Development",
-    "Mobile App Development",
-    "UI/UX Design",
-    "Database Management",
-  ]
+current_status: 
+  - 🎓 Pursuing IT degree
+  - 💼 Available for freelance projects
+  - 🌱 Learning advanced React patterns & TypeScript
+  - 🔭 Building full-stack applications
+  - 🤝 Open to collaborations
 
-Currently_learning: ["React.js", "Node.js", "TypeScript", "MongoDB"]
-2024_Goals:
-  [
-    "Create amazing projects",
-    "Learn new technologies",
-    "Contribute to open source",
-  ]
-Hobbies: ["Gaming", "Coding", "Music", "Learning"]
+interests:
+  - Web Development (Frontend & Backend)
+  - Mobile App Development
+  - UI/UX Design & Prototyping  
+  - Database Architecture
+  - DevOps & Cloud Computing
+  - Open Source Contributions
+
+personality:
+  - 🎯 Problem solver at heart
+  - ⚡ Quick learner & adaptable
+  - 🤝 Team player & mentor
+  - 🎮 Gaming enthusiast
+  - 🎵 Music lover
+  - ☕ Coffee powered developer
+
+motto: "Code with passion, learn with curiosity, share with generosity"
 ```
 
-</div>
+---
 
-<br>
-
-- 🎓 **IT Student** passionate about technology and software development
-- 💼 **Freelancer** with experience in web development and programming
-- 🌱 Currently learning advanced **React.js**, **Node.js**, and **TypeScript**
-- 🔭 Working on exciting projects involving **full-stack development**
-- 💡 Always eager to collaborate on innovative projects
-- ⚡ Fun fact: I love solving complex coding challenges!
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"> Connect with Me
+## 🛠️ Tech Arsenal
 
 <div align="center">
-  <a href="https://web.facebook.com/christianjay.mandani.3?_rdc=1&_rdr" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/cjaaayy__" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://twitter.com/cjaym__" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://discordapp.com/users/1200464257351942245" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://t.me/sejay3" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/cjaym/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://stackoverflow.com/users/22815563/christian-jay-mandani" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
-  </a>
-</div>
-
-<div align="center">
-  <h3>
-    📧 <strong>Email:</strong> mjhayxinadnam@gmail.com<br>
-    🌐 <strong>Portfolio:</strong> <a href="https://www.cjaayy.me">www.cjaayy.me</a>
-  </h3>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills & Tech Stack</b>
-
-<br>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp,cs,rust" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,mongodb,mysql" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,figma,androidstudio,gitlab" />
-  </a>
-</p>
 
 ### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp,cs,rust,php&theme=dark" />
 
-<div align="center">
-  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+### 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,tailwind,bootstrap,sass,materialui&theme=dark" />
 
-</div>
+### ⚙️ Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,laravel,spring,dotnet&theme=dark" />
 
-### 🚀 Frameworks & Libraries
+### 🗄️ Databases & Cloud
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,firebase,supabase,aws,gcp&theme=dark" />
 
-<div align="center">
-  
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+### 🔧 Tools & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,jenkins,nginx,linux&theme=dark" />
+
+### 📱 Mobile & Design
+<img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,figma,xd,photoshop,illustrator&theme=dark" />
 
 </div>
-
-### 🗄️ Databases
-
-<div align="center">
-  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</div>
-
-### 🛠️ Tools & Technologies
-
-<div align="center">
-  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Statistics </b>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cjaayy&theme=radical&border=7F3FBF&background=0D1117" alt="cjaayy's GitHub streak"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=cjaayy&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjaayy&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cjaayy&theme=radical" alt="cjaayy's GitHub Contribution"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cjaayy&custom_title=Christian%20Jay's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="cjaayy's GitHub Activity Graph"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>What I'm Currently Up To</b>
-
-<br>
-
-<div align="center">
-  
-� **Building full-stack web applications** with **React** and **Node.js**  
-📚 **Learning advanced TypeScript** patterns and **microservices architecture**  
-🎯 **Contributing to open-source projects** and sharing knowledge  
-💼 **Available for freelance projects** and exciting collaborations  
-🚀 **Exploring new technologies** like AI/ML and cloud computing
-
-</div>
-
-<br>
 
 ---
 
-<br>
-
-## <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30"> <b>Let's Connect and Build Something Amazing Together!</b>
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=50&duration=4000&lines=Thanks+for+visiting+my+profile!;Let's+connect+and+collaborate!;Always+happy+to+help+fellow+developers!" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cjaayy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cjaayy&layout=compact&langs_count=8&theme=algolia&hide=html,css"/>
 </div>
-
-<br>
-
-## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cjaayy/cjaayy/output/snake.svg" alt="Snake animation"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cjaayy&theme=tokyonight" />
 </div>
 
-<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cjaayy&custom_title=Christian%20Jay's%20Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=70a5fd&area=true&hide_border=true" />
+</div>
 
 ---
 
+## 🏆 GitHub Achievements
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=cjaayy&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" />
+</div>
+
+---
+
+## 📈 Coding Activity
+
+<!--START_SECTION:waka-->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cjaayy&theme=tokyonight&hide_border=true&layout=compact" />
+</div>
+<!--END_SECTION:waka-->
+
+---
+
+## 🎯 Current Goals & Projects
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+      <br><strong>2024 Goals</strong>
+      <br>✅ Master TypeScript
+      <br>🔄 Learn Next.js 14
+      <br>⏳ Contribute to 10 OSS projects
+      <br>⏳ Build SaaS application
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50">
+      <br><strong>Active Projects</strong>
+      <br>🚀 E-commerce Platform
+      <br>📱 React Native App
+      <br>🤖 Discord Bot
+      <br>📊 Analytics Dashboard
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50">
+      <br><strong>Learning Path</strong>
+      <br>📚 System Design
+      <br>☁️ AWS Certification
+      <br>🔐 Cybersecurity
+      <br>🧠 Machine Learning
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎵 Currently Vibing To
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=cjaayy&count=1" alt="Spotify recently played" />
+</div>
+
+---
+
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Building Scalable React Applications with TypeScript](https://dev.to/cjaayy)
+- [Full-Stack Authentication with JWT and Node.js](https://dev.to/cjaayy)
+- [Optimizing Database Performance: Tips & Tricks](https://dev.to/cjaayy)
+- [My Journey from Student to Freelance Developer](https://dev.to/cjaayy)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
   
-  <h2>💖 Support My Work</h2>
-  
-  <p>If you like my projects and want to support my work, consider:</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.cjaayy.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cjaym/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cjaym__)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cjaaayy__)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/christianjay.mandani.3)
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1200464257351942245)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sejay3)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22815563/christian-jay-mandani)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/cjaayy)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cjaayy)
+
+</div>
+
+<div align="center">
+  <h3>📧 Email: <a href="mailto:mjhayxinadnam@gmail.com">mjhayxinadnam@gmail.com</a></h3>
+  <h3>🌐 Portfolio: <a href="https://www.cjaayy.me">www.cjaayy.me</a></h3>
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/cjaayy/cjaayy/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 💼 Services & Expertise
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://img.icons8.com/color/96/000000/code.png"/>
+        <br><strong>Web Development</strong>
+        <br>Full-stack applications
+        <br>Responsive design
+        <br>Performance optimization
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.icons8.com/color/96/000000/smartphone.png"/>
+        <br><strong>Mobile Development</strong>
+        <br>React Native apps
+        <br>Cross-platform solutions
+        <br>Native performance
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.icons8.com/color/96/000000/web.png"/>
+        <br><strong>UI/UX Design</strong>
+        <br>User-centered design
+        <br>Prototyping & wireframing
+        <br>Design systems
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.icons8.com/color/96/000000/api.png"/>
+        <br><strong>API Development</strong>
+        <br>RESTful APIs
+        <br>GraphQL
+        <br>Microservices
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🏅 Certifications & Achievements
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/JavaScript-Certified-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <br><strong>JavaScript Expert</strong>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/React-Certified-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+        <br><strong>React Developer</strong>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Node.js-Certified-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+        <br><strong>Node.js Expert</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 💡 Fun Facts
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+- 🚀 I've contributed to **20+** open-source projects
+- ⚡ I can code for **12+** hours straight (with coffee ☕)
+- 🎮 I'm a competitive gamer in my free time
+- 🌱 I believe in lifelong learning and sharing knowledge
+- 🎯 My goal is to impact **1 million** developers through my work
+- 🔥 I've built applications used by **10,000+** users
+
+---
+
+## 💖 Support My Work
+
+<div align="center">
+  <p>If you find my projects helpful or inspiring, consider supporting my journey!</p>
   
   [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/cjaayy)
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/cjaayy)
-  
-  <br>
-  
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
+  [![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/cjaayy)
   
   <br><br>
   
-  <i>⭐️ From [cjaayy](https://github.com/cjaayy) with ❤️</i>
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+  <img src="https://forthebadge.com/images/badges/open-source.svg" />
   
-  <br>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-<!--
-GitHub Profile README Tips:
-- Keep it updated with your latest projects
-- Add shields/badges for technologies you use
-- Include links to your best repositories
-- Show your personality while keeping it professional
--->
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,25:a82da8,50:903cc2,75:7209b7,100:2d0562&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=70&desc=Let's%20build%20something%20amazing%20together%20🚀&descAlignY=90&descSize=14"/>
+</div>
+
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/cjaayy">cjaayy</a> with ❤️ - Last updated: <strong>September 2024</strong></i>
+</div>
