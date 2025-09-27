@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,25:a82da8,50:903cc2,75:7209b7,100:2d0562&height=300&section=header&text=Christian%20Jay%20Mandani&fontSize=50&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20IT%20Student%20%7C%20Tech%20Enthusiast&descAlignY=50&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,25:a82da8,50:903cc2,75:7209b7,100:2d0562&height=300&section=header&text=Christian%20Jay%20Mandani&fontSize=50&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20IT%20Student"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Christian+Jay+👋;Full-Stack+Developer+💻;Open+Source+Enthusiast+🚀;Always+Learning+New+Tech+📚" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Christian+Jay+👋;Full-Stack+Developer+💻;Always+Learning+New+Tech+📚" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -12,8 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=cjaayy&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/cjaayy?label=Followers&style=for-the-badge&color=blue&labelColor=ce4630" alt="followers"/>
   <img src="https://img.shields.io/github/stars/cjaayy?label=Stars&style=for-the-badge&color=yellow&labelColor=ce4630" alt="stars"/>
-  <img src="https://badges.pufler.dev/years/cjaayy?style=for-the-badge&color=blue&logo=github">
-  <img src="https://badges.pufler.dev/repos/cjaayy?style=for-the-badge&color=red&logo=github">
 </div>
 
 ---
@@ -116,16 +114,6 @@ motto: "Code with passion, learn with curiosity, share with generosity"
 
 ---
 
-## 📈 Coding Activity
-
-<!--START_SECTION:waka-->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cjaayy&theme=tokyonight&hide_border=true&layout=compact" />
-</div>
-<!--END_SECTION:waka-->
-
----
-
 ## 🎯 Current Goals & Projects
 
 <table>
@@ -201,29 +189,8 @@ motto: "Code with passion, learn with curiosity, share with generosity"
 
 - 🚀 I've contributed to **20+** open-source projects
 - ⚡ I can code for **12+** hours straight (with coffee ☕)
-- 🎮 I'm a competitive gamer in my free time
 - 🌱 I believe in lifelong learning and sharing knowledge
 - 🎯 My goal is to impact **1 million** developers through my work
-- 🔥 I've built applications used by **10,000+** users
-
----
-
-## 💖 Support My Work
-
-<div align="center">
-  <p>If you find my projects helpful or inspiring, consider supporting my journey!</p>
-  
-  [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/cjaayy)
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/cjaayy)
-  [![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/cjaayy)
-  
-  <br><br>
-  
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-  <img src="https://forthebadge.com/images/badges/open-source.svg" />
-  
-</div>
 
 ---
 
