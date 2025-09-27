@@ -52,17 +52,11 @@ current_status:
 
 interests:
   - Web Development (Frontend & Backend)
-  - Mobile App Development
-  - UI/UX Design & Prototyping  
   - Database Architecture
-  - DevOps & Cloud Computing
   - Open Source Contributions
 
 personality:
   - 🎯 Problem solver at heart
-  - ⚡ Quick learner & adaptable
-  - 🤝 Team player & mentor
-  - 🎮 Gaming enthusiast
   - 🎵 Music lover
   - ☕ Coffee powered developer
 
