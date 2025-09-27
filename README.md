@@ -167,7 +167,7 @@ motto: "Code with passion, learn with curiosity, share with generosity"
 
 <div align="center">
   <h3>📧 Email: <a href="mailto:mjhayxinadnam@gmail.com">mjhayxinadnam@gmail.com</a></h3>
-  <h3>🌐 Portfolio: <a href="https://www.cjaayy.me">www.cjaayy.me</a></h3>
+  <h3>🌐 Portfolio: <a href="https://cjaayy.github.io/My-Portfolio/">https://cjaayy.github.io/My-Portfolio/</a></h3>
 </div>
 
 ---
