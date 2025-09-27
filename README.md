@@ -165,23 +165,6 @@ motto: "Code with passion, learn with curiosity, share with generosity"
 
 ---
 
-## 🎵 Currently Vibing To
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=cjaayy&count=1" alt="Spotify recently played" />
-</div>
-
----
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable React Applications with TypeScript](https://dev.to/cjaayy)
-- [Full-Stack Authentication with JWT and Node.js](https://dev.to/cjaayy)
-- [Optimizing Database Performance: Tips & Tricks](https://dev.to/cjaayy)
-- [My Journey from Student to Freelance Developer](https://dev.to/cjaayy)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -213,67 +196,6 @@ motto: "Code with passion, learn with curiosity, share with generosity"
   <img src="https://raw.githubusercontent.com/cjaayy/cjaayy/output/snake.svg" alt="Snake animation" />
 </div>
 
----
-
-## 💼 Services & Expertise
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://img.icons8.com/color/96/000000/code.png"/>
-        <br><strong>Web Development</strong>
-        <br>Full-stack applications
-        <br>Responsive design
-        <br>Performance optimization
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.icons8.com/color/96/000000/smartphone.png"/>
-        <br><strong>Mobile Development</strong>
-        <br>React Native apps
-        <br>Cross-platform solutions
-        <br>Native performance
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.icons8.com/color/96/000000/web.png"/>
-        <br><strong>UI/UX Design</strong>
-        <br>User-centered design
-        <br>Prototyping & wireframing
-        <br>Design systems
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.icons8.com/color/96/000000/api.png"/>
-        <br><strong>API Development</strong>
-        <br>RESTful APIs
-        <br>GraphQL
-        <br>Microservices
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🏅 Certifications & Achievements
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/JavaScript-Certified-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-        <br><strong>JavaScript Expert</strong>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/React-Certified-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-        <br><strong>React Developer</strong>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Node.js-Certified-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-        <br><strong>Node.js Expert</strong>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
