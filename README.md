@@ -80,7 +80,7 @@ motto: "Code with passion, learn with curiosity, share with generosity"
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
 
 ### 🔧 Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,docker&theme=dark" />
 
 ### 📱 Mobile & Design
 <img src="https://skillicons.dev/icons?i=react,androidstudio,figma,photoshop,illustrator&theme=dark" />
