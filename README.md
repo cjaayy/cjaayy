@@ -68,22 +68,22 @@ motto: "Code with passion, learn with curiosity, share with generosity"
 <div align="center">
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp,cs,rust,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp,rust,php&theme=dark" />
 
 ### 🎨 Frontend Development
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,tailwind,bootstrap,sass,materialui&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,sass&theme=dark" />
 
 ### ⚙️ Backend Development
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,laravel,spring,dotnet&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,dotnet&theme=dark" />
 
 ### 🗄️ Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,firebase,supabase,aws,gcp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
 
 ### 🔧 Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,jenkins,nginx,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker&theme=dark" />
 
 ### 📱 Mobile & Design
-<img src="https://skillicons.dev/icons?i=react,flutter,androidstudio,figma,xd,photoshop,illustrator&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,androidstudio,figma,photoshop,illustrator&theme=dark" />
 
 </div>
 
