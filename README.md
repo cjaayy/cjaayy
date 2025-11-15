@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,25:a82da8,50:903cc2,75:7209b7,100:2d0562&height=300&section=header&text=Christian%20Jay%20Mandani&fontSize=50&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20IT%20Student"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,25:a82da8,50:903cc2,75:7209b7,100:2d0562&height=300&section=header&text=Christian%20Jay%20Mandani&fontSize=50&fontAlignY=35&desc=Web/System%20Developer%20%7C%20IT%20Student"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Christian+Jay+👋;Full-Stack+Developer+💻;Always+Learning+New+Tech+📚" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Christian+Jay+👋;Web/System+Developer+" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -31,8 +31,9 @@
   </table>
 </div>
 
+<!--
 ## 🧑‍💻 About Me
-
+<p>
 ```yaml
 name: Christian Jay Mandani
 location: Philippines 🇵🇭
@@ -59,8 +60,8 @@ personality:
   - ☕ Coffee powered developer
 
 motto: "Code with passion, learn with curiosity, share with generosity"
-```
-
+```</p>
+-->
 ---
 
 ## 🛠️ Tech Arsenal
@@ -112,6 +113,7 @@ motto: "Code with passion, learn with curiosity, share with generosity"
   <img src="https://github-profile-trophy.vercel.app/?username=cjaayy&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" />
 </div>
 
+<!--
 ---
 
 ## 🎯 Current Goals & Projects
@@ -144,7 +146,7 @@ motto: "Code with passion, learn with curiosity, share with generosity"
     </td>
   </tr>
 </table>
-
+-->
 ---
 
 ## 🌐 Connect With Me
@@ -167,7 +169,7 @@ motto: "Code with passion, learn with curiosity, share with generosity"
 
 <div align="center">
   <h3>📧 Email: <a href="mailto:mjhayxinadnam@gmail.com">mjhayxinadnam@gmail.com</a></h3>
-  <h3>🌐 Portfolio: <a href="https://cjaayy.github.io/My-Portfolio/">https://cjaayy.github.io/My-Portfolio/</a></h3>
+  <h3>🌐 Portfolio: <a href="https://cjaayy.github.io/MyPortfolio/">https://cjaayy.github.io/My-Portfolio/</a></h3>
 </div>
 
 ---
@@ -178,7 +180,7 @@ motto: "Code with passion, learn with curiosity, share with generosity"
   <img src="https://raw.githubusercontent.com/cjaayy/cjaayy/output/snake.svg" alt="Snake animation" />
 </div>
 
-
+<!--
 ---
 
 ## 💡 Fun Facts
@@ -191,7 +193,7 @@ motto: "Code with passion, learn with curiosity, share with generosity"
 - ⚡ I can code for **12+** hours straight (with coffee ☕)
 - 🌱 I believe in lifelong learning and sharing knowledge
 - 🎯 My goal is to impact **1 million** developers through my work
-
+-->
 ---
 
 <div align="center">
@@ -199,5 +201,5 @@ motto: "Code with passion, learn with curiosity, share with generosity"
 </div>
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/cjaayy">cjaayy</a> with ❤️ - Last updated: <strong>September 2024</strong></i>
+  <i>⭐️ From <a href="https://github.com/cjaayy">cjaayy</a> with ❤️</i>
 </div>
