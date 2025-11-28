@@ -62,6 +62,32 @@ personality:
 motto: "Code with passion, learn with curiosity, share with generosity"
 ```</p>
 -->
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.cjaayy.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cjaym/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cjaym__)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cjaaayy__)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/christianjay.mandani.3)
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1200464257351942245)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sejay3)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22815563/christian-jay-mandani)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/cjaayy)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cjaayy)
+
+</div>
+
+<div align="center">
+  <h3>📧 Email: <a href="mailto:mjhayxinadnam@gmail.com">mjhayxinadnam@gmail.com</a></h3>
+  <h3>🌐 Portfolio: <a href="https://cjaayy.github.io/MyPortfolio/">https://cjaayy.github.io/My-Portfolio/</a></h3>
+</div>
+
 ---
 
 ## 🛠️ Tech Arsenal
@@ -97,22 +123,24 @@ motto: "Code with passion, learn with curiosity, share with generosity"
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cjaayy&layout=compact&langs_count=8&theme=algolia&hide=html,css"/>
 </div>
 
+<!--
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cjaayy&theme=tokyonight" />
 </div>
+-->
 
+<!--
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cjaayy&custom_title=Christian%20Jay's%20Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=70a5fd&area=true&hide_border=true" />
 </div>
 
----
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=cjaayy&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" />
 </div>
-
+-->
 <!--
 ---
 
@@ -148,32 +176,6 @@ motto: "Code with passion, learn with curiosity, share with generosity"
 </table>
 -->
 ---
-
-## 🌐 Connect With Me
-
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.cjaayy.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cjaym/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cjaym__)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cjaaayy__)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/christianjay.mandani.3)
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1200464257351942245)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sejay3)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22815563/christian-jay-mandani)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/cjaayy)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cjaayy)
-
-</div>
-
-<div align="center">
-  <h3>📧 Email: <a href="mailto:mjhayxinadnam@gmail.com">mjhayxinadnam@gmail.com</a></h3>
-  <h3>🌐 Portfolio: <a href="https://cjaayy.github.io/MyPortfolio/">https://cjaayy.github.io/My-Portfolio/</a></h3>
-</div>
-
----
-
 ## 🐍 Contribution Graph
 
 <div align="center">
