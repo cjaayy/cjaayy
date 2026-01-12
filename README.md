@@ -16,20 +16,16 @@
 
 ---
 
-## 🚀 Quick Overview
+## 📊 GitHub Stats:
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=cjaayy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=cjaayy&theme=tokyonight&hide_border=true" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=cjaayy&theme=dark&hide_border=false"/>
 </div>
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=cjaayy&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!--
 ## 🧑‍💻 About Me
