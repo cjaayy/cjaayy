@@ -92,19 +92,19 @@ motto: "Code with passion, learn with curiosity, share with generosity"
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp,rust,php&theme=dark" />
 
 ### 🎨 Frontend Development
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,sass&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark" />
 
 ### ⚙️ Backend Development
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,dotnet&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs,laravel&theme=dark" />
 
 ### 🗄️ Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,mongodb&theme=dark" />
 
 ### 🔧 Tools & DevOps
 <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,docker&theme=dark" />
 
 ### 📱 Mobile & Design
-<img src="https://skillicons.dev/icons?i=react,androidstudio,figma,photoshop,illustrator&theme=dark" />
+<img src="https://skillicons.dev/icons?i=dart,flutter,androidstudio,figma,&theme=dark" />
 
 </div>
 
