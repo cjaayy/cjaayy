@@ -16,17 +16,48 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/cjaayy">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cjaayy&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="cjaayy's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=cjaayy&theme=radical&hide_border=true&cache_seconds=86400" alt="cjaayy's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=cjaayy&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="'s GitHub Trophies" />
+</p>
+
+
+## 🛠️ Languages & Tools
+<p align="center">
+  <a href="https://github.com/cjaayy">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cjaayy&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=cjaayy&theme=dark&hide_border=false"/>
+
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp,rust,php&theme=dark" />
+
+### 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark" />
+
+### ⚙️ Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs,laravel&theme=dark" />
+
+### 🗄️ Databases & Cloud
+<img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,mongodb&theme=dark" />
+
+### 🔧 Tools & DevOps
+<img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,docker&theme=dark" />
+
+### 📱 Mobile & Design
+<img src="https://skillicons.dev/icons?i=dart,flutter,androidstudio,figma,&theme=dark" />
+
 </div>
 
-
 ---
-[![](https://visitcount.itsvg.in/api?id=cjaayy&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
 <!--
 ## 🧑‍💻 About Me
 <p>
@@ -83,39 +114,6 @@ motto: "Code with passion, learn with curiosity, share with generosity"
 </div>
 
 ---
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp,rust,php&theme=dark" />
-
-### 🎨 Frontend Development
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark" />
-
-### ⚙️ Backend Development
-<img src="https://skillicons.dev/icons?i=nodejs,nextjs,laravel&theme=dark" />
-
-### 🗄️ Databases & Cloud
-<img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,mongodb&theme=dark" />
-
-### 🔧 Tools & DevOps
-<img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,docker&theme=dark" />
-
-### 📱 Mobile & Design
-<img src="https://skillicons.dev/icons?i=dart,flutter,androidstudio,figma,&theme=dark" />
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cjaayy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cjaayy&layout=compact&langs_count=8&theme=algolia&hide=html,css"/>
-</div>
 
 <!--
 <div align="center">
