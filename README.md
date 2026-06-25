@@ -50,7 +50,7 @@
 <img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,mongodb&theme=dark" />
 
 ### 🔧 Tools & DevOps
-<img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
 
 ### 📱 Mobile & Design
 <img src="https://skillicons.dev/icons?i=dart,flutter,androidstudio,figma,&theme=dark" />
