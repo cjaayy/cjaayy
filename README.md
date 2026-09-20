@@ -1,207 +1,169 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,25:a82da8,50:903cc2,75:7209b7,100:2d0562&height=300&section=header&text=Christian%20Jay%20Mandani&fontSize=50&fontAlignY=35&desc=Web/System%20Developer%20%7C%20IT%20Student"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,35:9333ea,70:4f46e5,100:06b6d4&height=250&section=header&text=Christian%20Jay%20Mandani&fontSize=46&fontAlignY=36&desc=Full-Stack%20Web%20/%20Mobile%20/%20System%20Developer%20%7C%20IT%20Student&descSize=18&descAlignY=58" width="100%" alt="Christian Jay Mandani Banner" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Christian+Jay+👋;Web/System+Developer+" alt="Typing SVG" />
+  <a href="https://github.com/cjaayy">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=23&duration=2800&pause=1800&color=A855F7&center=true&vCenter=true&width=620&lines=Full-Stack+Web+%2F+Mobile+%2F+System+Developer;Building+Scalable+Web+%26+Mobile+Apps;Information+Technology+Student;Turning+Complex+Problems+Into+Clean+Code" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=cjaayy&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/cjaayy?label=Followers&style=for-the-badge&color=blue&labelColor=ce4630" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/cjaayy?label=Stars&style=for-the-badge&color=yellow&labelColor=ce4630" alt="stars"/>
+  <img src="https://komarev.com/ghpvc/?username=cjaayy&label=Profile%20Views&color=7928ca&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/cjaayy?tab=followers">
+    <img src="https://img.shields.io/github/followers/cjaayy?label=Followers&style=for-the-badge&logo=github&color=7928ca&logoColor=white&labelColor=161b22" alt="Followers" />
+  </a>
+  <a href="https://github.com/cjaayy?tab=repositories">
+    <img src="https://img.shields.io/github/stars/cjaayy?label=Stars&style=for-the-badge&logo=apachespark&color=7928ca&logoColor=06b6d4&labelColor=161b22" alt="Stars" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Philippines-7928ca?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=161b22" alt="Location" />
 </div>
 
 ---
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/cjaayy">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cjaayy&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="cjaayy's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=cjaayy&theme=radical&hide_border=true&cache_seconds=86400" alt="cjaayy's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=cjaayy&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="'s GitHub Trophies" />
-</p>
-
-
-## 🛠️ Languages & Tools
-<p align="center">
-  <a href="https://github.com/cjaayy">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cjaayy&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
+<h2 align="center">
+  <img src="https://cdn.simpleicons.org/codio/a855f7" width="22" height="22" />
+  Technical Arsenal
+</h2>
 
 <div align="center">
 
-### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp,rust,php&theme=dark" />
-
-### 🎨 Frontend Development
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark" />
-
-### ⚙️ Backend Development
-<img src="https://skillicons.dev/icons?i=nodejs,nextjs,laravel&theme=dark" />
-
-### 🗄️ Databases & Cloud
-<img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,mongodb&theme=dark" />
-
-### 🔧 Tools & DevOps
-<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
-
-### 📱 Mobile & Design
-<img src="https://skillicons.dev/icons?i=dart,flutter,androidstudio,figma,&theme=dark" />
-
-</div>
-
----
-<!--
-## 🧑‍💻 About Me
+<p><strong><img src="https://cdn.simpleicons.org/codefactor/a855f7" width="16" height="16" /> Core Programming Languages</strong></p>
 <p>
-```yaml
-name: Christian Jay Mandani
-location: Philippines 🇵🇭
-timezone: Asia/Manila (GMT+8)
-role: IT Student & Freelance Full-Stack Developer
-education: Bachelor's in Information Technology
-experience: 2+ years in web development
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php&theme=dark" alt="Core Languages" />
+</p>
 
-current_status: 
-  - 🎓 Pursuing IT degree
-  - 💼 Available for freelance projects
-  - 🌱 Learning advanced React patterns & TypeScript
-  - 🔭 Building full-stack applications
-  - 🤝 Open to collaborations
+<p><strong><img src="https://cdn.simpleicons.org/react/06b6d4" width="16" height="16" /> Frontend Engineering</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite&theme=dark" alt="Frontend Development" />
+</p>
 
-interests:
-  - Web Development (Frontend & Backend)
-  - Database Architecture
-  - Open Source Contributions
+<p><strong><img src="https://cdn.simpleicons.org/nodedotjs/22c55e" width="16" height="16" /> Backend & Cloud Infrastructure</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,firebase,supabase,mysql,mongodb&theme=dark" alt="Backend & Cloud" />
+</p>
 
-personality:
-  - 🎯 Problem solver at heart
-  - 🎵 Music lover
-  - ☕ Coffee powered developer
+<p><strong><img src="https://cdn.simpleicons.org/flutter/02569b" width="16" height="16" /> Mobile Development</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=dart,flutter,androidstudio&theme=dark" alt="Mobile Development" />
+</p>
 
-motto: "Code with passion, learn with curiosity, share with generosity"
-```</p>
--->
+<p><strong><img src="https://cdn.simpleicons.org/git/f05032" width="16" height="16" /> DevOps & Workflow Tools</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,linux&theme=dark" alt="Tools & DevOps" />
+</p>
 
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://myportfolio.cjaayy.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cjaym/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cjaym__)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cjaaayy__)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/christianjay.mandani.3)
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1200464257351942245)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sejay3)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22815563/christian-jay-mandani)
-
-</div>
-
-<div align="center">
-  <h3>📧 Email: <a href="mailto:mjhayxinadnam@gmail.com">mjhayxinadnam@gmail.com</a></h3>
-  <h3>🌐 Portfolio: <a href="https://myportfolio.cjaayy.dev/">https://cjaayy.github.io/My-Portfolio/</a></h3>
 </div>
 
 ---
 
-<!--
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cjaayy&theme=tokyonight" />
-</div>
--->
-
-<!--
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cjaayy&custom_title=Christian%20Jay's%20Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=70a5fd&area=true&hide_border=true" />
-</div>
-
-
-## 🏆 GitHub Achievements
+<h2 align="center">
+  <img src="https://cdn.simpleicons.org/fastapi/a855f7" width="22" height="22" />
+  Connect & Collaborate
+</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cjaayy&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" />
+  <a href="https://myportfolio.cjaayy.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/cjaym/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/cjaym__" target="_blank">
+    <img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/cjaaayy__" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram" />
+  </a>
+  <a href="https://web.facebook.com/christianjay.mandani.3" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117" alt="Facebook" />
+  </a>
 </div>
--->
-<!--
+
+<br/>
+
+<div align="center">
+  <a href="https://discordapp.com/users/1200464257351942245" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" alt="Discord" />
+  </a>
+  <a href="https://t.me/sejay3" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" alt="Telegram" />
+  </a>
+  <a href="https://stackoverflow.com/users/22815563/christian-jay-mandani" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=0d1117" alt="Stack Overflow" />
+  </a>
+  <a href="mailto:mjhayxinadnam@gmail.com">
+    <img src="https://img.shields.io/badge/Direct_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="mailto:mjhayxinadnam@gmail.com">
+    <img src="https://img.shields.io/badge/Inquiries-mjhayxinadnam@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Inquiries" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://myportfolio.cjaayy.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-myportfolio.cjaayy.dev-7928CA?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+</div>
+
 ---
 
-## 🎯 Current Goals & Projects
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
-      <br><strong>2024 Goals</strong>
-      <br>✅ Master TypeScript
-      <br>🔄 Learn Next.js 14
-      <br>⏳ Contribute to 10 OSS projects
-      <br>⏳ Build SaaS application
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50">
-      <br><strong>Active Projects</strong>
-      <br>🚀 E-commerce Platform
-      <br>📱 React Native App
-      <br>🤖 Discord Bot
-      <br>📊 Analytics Dashboard
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50">
-      <br><strong>Learning Path</strong>
-      <br>📚 System Design
-      <br>☁️ AWS Certification
-      <br>🔐 Cybersecurity
-      <br>🧠 Machine Learning
-    </td>
-  </tr>
-</table>
--->
----
-## 
-<!-- 🐍 Contribution Graph 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/cjaayy/cjaayy/output/snake.svg" alt="Snake animation" />
-</div>
--->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cjaayy/cjaayy/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cjaayy/cjaayy/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cjaayy/cjaayy/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<!--
----
-
-## 💡 Fun Facts
+<h2 align="center">
+  <img src="https://cdn.simpleicons.org/github/a855f7" width="22" height="22" />
+  GitHub Analytics
+</h2>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <a href="https://github.com/cjaayy">
+    <img height="190" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cjaayy&show_icons=true&layout=compact&theme=radical&hide_border=true&border_radius=10&cache_seconds=7200" alt="cjaayy's GitHub Stats" />
+  </a>
+  <a href="https://github.com/cjaayy">
+    <img height="190" src="https://streak-stats.demolab.com/?user=cjaayy&theme=radical&hide_border=true&border_radius=10&cache_seconds=86400" alt="cjaayy's GitHub Streak" />
+  </a>
 </div>
 
-- 🚀 I've contributed to **20+** open-source projects
-- ⚡ I can code for **12+** hours straight (with coffee ☕)
-- 🌱 I believe in lifelong learning and sharing knowledge
-- 🎯 My goal is to impact **1 million** developers through my work
--->
+<br/>
+
+<div align="center">
+  <a href="https://github.com/cjaayy">
+    <img height="190" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cjaayy&langs_count=8&layout=compact&theme=radical&hide_border=true&border_radius=10&cache_seconds=7200" alt="Top Languages" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://trophy.ryglcloud.net/?username=cjaayy&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="GitHub Trophies" />
+</div>
+
+---
+
+<h2 align="center">
+  <img src="https://cdn.simpleicons.org/githubactions/a855f7" width="22" height="22" />
+  Contribution Activity
+</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cjaayy/cjaayy/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cjaayy/cjaayy/output/pacman-contribution-graph.svg">
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/cjaayy/cjaayy/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
+</div>
+
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,25:a82da8,50:903cc2,75:7209b7,100:2d0562&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=70&desc=Let's%20build%20something%20amazing%20together%20🚀&descAlignY=90&descSize=14"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,35:9333ea,70:4f46e5,100:06b6d4&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=70&desc=Let's%20build%20something%20extraordinary%20together&descAlignY=90&descSize=14" width="100%" alt="Footer Banner" />
 </div>
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/cjaayy">cjaayy</a> with ❤️</i>
+  <a href="https://github.com/cjaayy">
+    <img src="https://img.shields.io/badge/Architected_&_Engineered_by-Christian_Jay_Mandani-7928ca?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" alt="Author" />
+  </a>
 </div>
