@@ -1,3 +1,4 @@
+<!--
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,35:9333ea,70:4f46e5,100:06b6d4&height=250&section=header&text=Christian%20Jay%20Mandani&fontSize=46&fontAlignY=36&desc=Full-Stack%20Web%20/%20Mobile%20/%20System%20Developer%20%7C%20IT%20Student&descSize=18&descAlignY=58" width="100%" alt="Christian Jay Mandani Banner" />
 </div>
@@ -167,3 +168,4 @@
     <img src="https://img.shields.io/badge/Architected_&_Engineered_by-Christian_Jay_Mandani-7928ca?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" alt="Author" />
   </a>
 </div>
+-->
